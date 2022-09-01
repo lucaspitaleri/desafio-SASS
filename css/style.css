@@ -1,0 +1,18 @@
+header {
+  background-color: black;
+  border-color: aqua;
+  color: aliceblue;
+  text-align: center; }
+  header nav {
+    background-color: #43343d;
+    color: antiquewhite;
+    -webkit-text-stroke: 1px white;
+    color: transparent; }
+    header nav ul {
+      background-color: black;
+      color: red; }
+    header nav div {
+      padding: 20px;
+      margin-left: 50vh;
+      display: flex;
+      flex-direction: row; }
