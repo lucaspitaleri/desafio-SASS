@@ -1,0 +1,23 @@
+header{background-color: rgb(0, 0, 0);
+    border-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    
+    nav{
+        background-color: rgb(67, 52, 61);
+        color: antiquewhite;
+        -webkit-text-stroke: 1px white;
+        color: transparent;
+     
+       ul{
+        background-color: rgb(0, 0, 0);
+        color: red;
+       }
+       div{
+       padding: 20px;
+       margin-left: 50vh;
+        display: flex;
+       flex-direction: row;
+        }
+    }
+}
